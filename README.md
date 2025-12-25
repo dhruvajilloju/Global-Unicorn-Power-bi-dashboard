@@ -84,3 +84,17 @@ Unicorn formation accelerated significantly after 2010
 Higher funding generally correlates with higher valuation, though exceptions exist
 
 Certain cities emerge as global unicorn hubs
+
+🚀 How to Use
+
+Download the .pbix file
+
+Open it using Power BI Desktop
+
+Use slicers to filter by country, company, city, or investors
+
+Explore insights interactively
+
+📌 Conclusion
+
+This dashboard demonstrates the ability to transform raw startup data into meaningful insights using Power BI. It highlights trends in the global unicorn ecosystem and showcases skills in data modeling, visualization, and analytical storytelling.
